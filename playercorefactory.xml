@@ -1,0 +1,23 @@
+<playercorefactory>
+	<players>
+		<player name="ACEPlayer" type="ExternalPlayer" audio="false" video="true">
+			<filename>org.acestream.media</filename>
+			<hidexbmc>true</hidexbmc>
+			<playcountminimumtime>120</playcountminimumtime>
+		</player>
+	</players>
+	<rules action="prepend">
+<!---
+**********                   **********
+********** EDIT THIS SECTION **********
+**********                   **********
+-->
+		<!--<rule protocols="smb" player="HOOSE PLAYER NAME HERE" />-->
+		<!--<rule dvdimage="true" player="CHOOSE PLAYER NAME HERE"/>-->
+		<!--<rule protocols="rtmp" player="CHOOSE PLAYER NAME HERE"/>-->
+		<!--<rule protocols="rtsp" player="CHOOSE PLAYER NAME HERE" />-->
+		<!--<rule protocols="sop" player="CHOOSE PLAYER NAME HERE" />-->
+		<rule internetstream="true" player="ACEPlayer" />
+		<rule video="true" player="dvdplayer"/> <!-- Default for anything else not listed -->
+	</rules>
+</playercorefactory>
