@@ -220,10 +220,10 @@ http://localhost:6878/ace/getstream?id=a0465ef421f30d0c68ff706654147762ec7b6c03
 http://localhost:6878/ace/getstream?id=
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 - 1080
-http://localhost:6878/ace/getstream?id=c372020ed2744033f56548b6beb11a9f3e740f37
+http://localhost:6878/ace/getstream?id=ffaa5f556ee0497ad905208d317b1f3ed4c0914b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 - 720
-http://localhost:6878/ace/getstream?id=5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
+http://localhost:6878/ace/getstream?id=a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD",  M+ Deportes - 1080
 http://localhost:6878/ace/getstream?id=49acacbbbcf33be6e843958ceedc7da8dd4f1486
