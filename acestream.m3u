@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml.gz"
 
-#EXTINF:-1 tvg-logo="" group-title="Radio" tvg-id="", Radio3 Web Streaming
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/275px-Radio_3_RNE_Spain.svg.png" group-title="Radio" tvg-id="", Radio3 Web Streaming
 http://localhost:8081
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", La 1 
