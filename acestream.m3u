@@ -1,10 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Gol Mundial" tvg-id="Gol Mundial HD", Gol Mundial 1080
-http://localhost:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Gol Mundial" tvg-id="Gol Mundial HD", Gol Mundial 1080 MultiAudio
+http://localhost:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Gol Mundial" tvg-id="Gol Mundial HD", Gol Mundial 1080 MultiAudio
+http://localhost:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Gol Mundial" tvg-id="Gol Mundial HD", Gol Mundial 1080
-http://localhost:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
+http://localhost:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Gol Mundial" tvg-id="Gol Mundial HD", Gol Mundial 720
 http://localhost:6878/ace/getstream?id=e80b91500a5679965a0cbab90f5eaf6cba6da2f3
@@ -22,10 +25,10 @@ http://localhost:6878/ace/getstream?id=b67faee973e5a969a0adb02d476b78ef8cec4f3e
 http://localhost:6878/ace/getstream?id=110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", La 1
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Varios" tvg-id="La 2 HD", La 2
-https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="Television" tvg-id="M+ESTRENOS HD",  Movistar Estrenos
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1164
@@ -228,14 +231,8 @@ http://localhost:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ GOLF HD",  M. Golf 1080
 http://localhost:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="Varios" tvg-id="TELEDEPORTE",  Teledeporte - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="Varios" tvg-id="TELEDEPORTE",  Teledeporte 1080
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Varios" tvg-id="Mega HD",  Mega - 1080
-http://localhost:6878/ace/getstream?id=eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Varios" tvg-id="Mega HD",  Mega - 720
-http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Varios" tvg-id="NAT GEO WILD HD",  National Geographic
 http://localhost:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
@@ -245,9 +242,6 @@ http://localhost:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="TOROS HD",  Toros
 http://localhost:6878/ace/getstream?id=1c23860f47c37595a322e07b5171098e2a3405b9
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="TOROS HD",  Toros
-http://s846397078.mialojamiento.es/wf9t/toro.php/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="Catalunya" tvg-id="Esport3 ", [CAT] Esport3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
@@ -423,8 +417,8 @@ http://localhost:6878/ace/getstream?id=e26a359efe269af158923a63d69884bfe12a33cc
 #EXTINF:-1 tvg-logo="" group-title="Colombia" tvg-id="vacio", [COL] Win Sports
 http://localhost:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/275px-Radio_3_RNE_Spain.svg.png" group-title="Radio" tvg-id="", Radio3 Web Streaming
+https://ztnr.rtve.es/ztnr/2795617.m3u8
 
 
 
