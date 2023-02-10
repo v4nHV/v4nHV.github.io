@@ -6,24 +6,6 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Varios" tvg-id="La 2 HD", La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", SuperCopa 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", SuperCopa 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", SuperCopa 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=8c9b1644fd4766c62935822f5c50a0f044125e1b
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", SuperCopa 1080 
-http://localhost:6878/ace/getstream?id=95d9967309d74d3dbd87c66cf374666bb9da9f07
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", SuperCopa 720
-http://localhost:6878/ace/getstream?id=a16f0078ccb46ba65aaa175ad823e47ec31ab464
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", SuperCopa SD
-http://localhost:6878/ace/getstream?id=3ce776c6eac31081239903cd45c152b27f95af63
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", #0 de Movistar 1080
 http://localhost:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
@@ -139,13 +121,13 @@ http://localhost:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 http://localhost:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 1080 (Fórmula 1)
-http://localhost:6878/ace/getstream?id=ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+http://localhost:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 1080 (Fórmula 1)
 http://localhost:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 720 (Fórmula 1)
-http://localhost:6878/ace/getstream?id=a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+http://localhost:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD",  M. Deportes 1080
 http://localhost:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
