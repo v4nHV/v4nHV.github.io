@@ -34,10 +34,10 @@ http://localhost:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
 http://localhost:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="M+ LaLiga HD 2", M. LaLiga 2 1080
-http://localhost:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f4310e3
+http://localhost:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="M+ LaLiga HD 2", M. LaLiga 2 720
-http://localhost:6878/ace/getstream?id=a92af592ba7f8f2f087ee34b91662db47705ca52
+http://localhost:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD",  DAZN LaLiga 1080 MultiAudio
 http://localhost:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
@@ -127,7 +127,7 @@ http://localhost:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
 http://localhost:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 1080 (Fórmula 1)
-http://localhost:6878/ace/getstream?id=5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+http://localhost:6878/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 720 (Fórmula 1)
 http://localhost:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
@@ -374,5 +374,4 @@ http://localhost:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/275px-Radio_3_RNE_Spain.svg.png" group-title="Radio" tvg-id="", Radio3 Web Streaming
 https://ztnr.rtve.es/ztnr/2795617.m3u8
-
 
