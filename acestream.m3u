@@ -65,7 +65,7 @@ http://localhost:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 http://localhost:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN LaLiga2 HD",  DAZN LaLiga 2 720 MultiAudio
-http://localhost:6878/ace/getstream?id=05241e69091eedbb354f2651d30c83f40d1bb653
+http://localhost:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll3.png" group-title="Dazn" tvg-id="DAZN LaLiga3 HD",  DAZN LaLiga 3 1080 MultiAudio
 http://localhost:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
@@ -73,7 +73,7 @@ http://localhost:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll4.png" group-title="Dazn" tvg-id="DAZN LaLiga4 HD",  DAZN LaLiga 4 1080 MultiAudio
 http://localhost:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll5.png" group-title="Dazn" tvg-id="DAZN LaLiga5 HD",  DAZN LaLiga 2 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll5.png" group-title="Dazn" tvg-id="DAZN LaLiga5 HD",  DAZN LaLiga 5 1080 MultiAudio
 http://localhost:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="M+LCAMPEONES",  M.L. Campeones 1080 MultiAudio
