@@ -10,28 +10,28 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 http://localhost:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD",  #Vamos 1080
-http://localhost:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
+http://localhost:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD",  #Vamos 720
 http://localhost:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="M+ LaLiga HD" ,  LaLiga Tv Bar 1080
-http://localhost:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
+http://localhost:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="M+ LaLiga HD" ,  LaLiga Tv Bar 720
 http://localhost:6878/ace/getstream?id=e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD",  M. LaLiga 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
+http://localhost:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD",  M. LaLiga 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
+http://localhost:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD",  M. LaLiga 1080
 http://localhost:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD",  M. LaLiga 720
-http://localhost:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+http://localhost:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="M+ LaLiga HD 2", M. LaLiga 2 1080
 http://localhost:6878/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
@@ -53,13 +53,13 @@ http://localhost:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD",  DAZN LaLiga 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
+http://localhost:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD",  DAZN LaLiga 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+http://localhost:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD",  DAZN LaLiga 720
-http://localhost:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+http://localhost:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN LaLiga2 HD",  DAZN LaLiga 2 1080 MultiAudio
 http://localhost:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
@@ -77,7 +77,7 @@ http://localhost:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 http://localhost:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="M+LCAMPEONES",  M.L. Campeones 1080 MultiAudio
-http://localhost:6878/ace/getstream?id=2bac25f323be1de8208d6554337c2c8256bc32bc
+http://localhost:6878/ace/getstream?id=a4ee6f9590351d2c88c416f9962af82c7e1ce816
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="M+LCAMPEONES",  M.L. Campeones 1080 MultiAudio
 http://localhost:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
@@ -86,7 +86,7 @@ http://localhost:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 http://localhost:6878/ace/getstream?id=539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="M+LCAMPEONES",  M.L. Campeones 720
-http://localhost:6878/ace/getstream?id=444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+http://localhost:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="M.L. Campeones" tvg-id="M+LCAMPEON2",  M.L. Campeones 2 1080
 http://localhost:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
@@ -128,58 +128,58 @@ http://localhost:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
 http://localhost:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1",  DAZN 1 1080
-http://localhost:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
+http://localhost:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1",  DAZN 1 720
-http://localhost:6878/ace/getstream?id=47c6e8dadfba2b3bd013feecf4194ecceec428cd
+http://localhost:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="Dazn" tvg-id="DAZN 2",  DAZN 2 1080
-http://localhost:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
+http://localhost:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="Dazn" tvg-id="DAZN 2",  DAZN 2 720
-http://localhost:6878/ace/getstream?id=704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+http://localhost:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" group-title="Dazn" tvg-id="DAZN 3",  DAZN 3 1080
-http://localhost:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+http://localhost:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="DAZN 4",  DAZN 4 1080
-http://localhost:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
+http://localhost:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 1080 (Fórmula 1)
-http://localhost:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
+http://localhost:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 1080 (Fórmula 1)
-http://localhost:6878/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+http://localhost:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD",  DAZN F1 720 (Fórmula 1)
-http://localhost:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
+http://localhost:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD",  M. Deportes 1080
-http://localhost:6878/ace/getstream?id=8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+http://localhost:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD",  M. Deportes 720
 http://localhost:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="M+ Deportes" tvg-id="M+DEPORTES2HD",  M. Deportes 2 1080
-http://localhost:6878/ace/getstream?id=f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+http://localhost:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" group-title="M+ Deportes" tvg-id="M+DEPORTES3",  M. Deportes 3 1080
-http://localhost:6878/ace/getstream?id=ecf2096f9f612a70638d644fb621472a3ddaeb20
+http://localhost:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" group-title="M+ Deportes" tvg-id="M+DEPORTES4",  M. Deportes 4 1080
-http://localhost:6878/ace/getstream?id=08db089084ddbaceba7c239817407bf99708b9ad
+http://localhost:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="M+ Deportes" tvg-id="M+DEPORTES5",  M. Deportes 5 1080
-http://localhost:6878/ace/getstream?id=ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+http://localhost:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="M+ Deportes" tvg-id="M+DEPORTES6",  M. Deportes 6 720
-http://localhost:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+http://localhost:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="LaLiga SmartbankTV",  LaLiga Smartbank 1080
-http://localhost:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
+http://localhost:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="LaLiga SmartbankTV",  LaLiga Smartbank 720
-http://localhost:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+http://localhost:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 1080",  LaLiga Smartbank 2 1080
 http://localhost:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
@@ -209,10 +209,10 @@ http://localhost:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
 http://localhost:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="EUROSPORT1HD",  EuroSport 1 1080
-http://localhost:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+http://localhost:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="EUROSPORT2HD",  EuroSport 2 1080
-http://localhost:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
+http://localhost:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="Varios" tvg-id="Ellas #V",  #Ellas 720
 http://localhost:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
@@ -251,13 +251,13 @@ http://localhost:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://localhost:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="Tv deportivo 1 - 1080", [POR] Sport Tv 1 1080
-http://localhost:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
+http://localhost:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/7054415b-859c-46c8-b57f-7b2d29942044/402083874022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="Deporte TV 2 - 1080", [POR] Sport Tv 2 1080
-http://localhost:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
+http://localhost:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="Tv deportivo 3 - 1080", [POR] Sport Tv 3 1080
-http://localhost:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
+http://localhost:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Uruguay" tvg-id="ESPN", [URY] ESPN
 http://localhost:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
@@ -281,7 +281,7 @@ http://localhost:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://localhost:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="beIN Sport ñ", [USA] beIN SPORTS ñ
-http://localhost:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+http://localhost:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="NBA TV", [USA] NBA TV
 http://localhost:6878/ace/getstream?id=6ba718a6f5a638e2ae15de6904ea2fa553895856
