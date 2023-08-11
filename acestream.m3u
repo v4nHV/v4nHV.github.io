@@ -13,7 +13,7 @@ http://localhost:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 http://localhost:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD",  #Vamos 720
-http://localhost:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
+http://localhost:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="M+ LaLiga HD" ,  LaLiga Tv Bar 1080
 http://localhost:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
@@ -89,10 +89,10 @@ http://localhost:6878/ace/getstream?id=539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 http://localhost:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="M.L. Campeones" tvg-id="M+LCAMPEON2",  M.L. Campeones 2 1080
-http://localhost:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+http://localhost:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="M.L. Campeones" tvg-id="M+LCAMPEON2",  M.L. Campeones 2 720
-http://localhost:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
+http://localhost:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="M.L. Campeones" tvg-id="M+LCAMPEON3",  M.L. Campeones 3 1080
 http://localhost:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
@@ -172,8 +172,11 @@ http://localhost:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="M+ Deportes" tvg-id="M+DEPORTES5",  M. Deportes 5 1080
 http://localhost:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="M+ Deportes" tvg-id="M+DEPORTES6",  M. Deportes 6 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="M+ Deportes" tvg-id="M+DEPORTES6",  M. Deportes 6 1080
 http://localhost:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="M+ Deportes" tvg-id="M+DEPORTES7",  M. Deportes 7 1080
+http://localhost:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="LaLiga SmartbankTV",  LaLiga Smartbank 1080
 http://localhost:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
@@ -182,7 +185,7 @@ http://localhost:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 http://localhost:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 1080",  LaLiga Smartbank 2 1080
-http://localhost:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+http://localhost:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="vacio", LaLiga Smartbank 2 720
 http://localhost:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
@@ -411,4 +414,56 @@ http://localhost:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/275px-Radio_3_RNE_Spain.svg.png" group-title="Radio" tvg-id="", Radio3 Web Streaming
 https://ztnr.rtve.es/ztnr/2795617.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", La1
+http://localhost:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", La1 UHD
+http://localhost:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", LaLiga Smartbank 6 
+http://localhost:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", LaLiga Smartbank 7 
+http://localhost:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #Ellas 1080
+http://localhost:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
+
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", Golf mex 720
+http://localhost:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", tdp 1080
+http://localhost:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", Tennis Channel
+http://localhost:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", CUATRO 1080
+http://localhost:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", BeMad 1080
+http://localhost:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", Telecinco 1080
+http://localhost:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", ESPN COLOMBIA
+http://localhost:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", ESPN EXTRA COLOMBIA 
+http://localhost:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", ESPN 2 COLOMBIA
+http://localhost:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", ESPN 3 COLOMBIA
+http://localhost:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", SETANTA SPORTS 1080
+http://localhost:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", aquí
+http://localhost:6878/ace/getstream?id=8819c851e10adc18ad914805ec4a13ddfb67063c
 
