@@ -205,22 +205,34 @@ http://localhost:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 http://localhost:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm3.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 3", LaLiga Smartbank 3
-http://localhost:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
+http://localhost:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm4.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 4", LaLiga Smartbank 4
-http://localhost:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+http://localhost:6878/ace/getstream?id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm5.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 5", LaLiga Smartbank 5
-http://localhost:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
+http://localhost:6878/ace/getstream?id=7a6f7c3acc3689c40f2300432723c55d41222af0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm6.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 6", LaLiga Smartbank 6 
-http://localhost:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+http://localhost:6878/ace/getstream?id=5bd78125bd1e98c3f49e98910ed15e39d0b9f631
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm7.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 7", LaLiga Smartbank 7 
-http://localhost:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
+http://localhost:6878/ace/getstream?id=b7e43c2c3887864193578eb57079955c50070f69
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm8.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 8", LaLiga Smartbank 8
-http://localhost:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+http://localhost:6878/ace/getstream?id=11c89343be863cf2a69b3973747c629d9e79d7b8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm9.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 9", LaLiga Smartbank 9
+http://localhost:6878/ace/getstream?id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm10.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 10", LaLiga Smartbank 10
+http://localhost:6878/ace/getstream?id=629222201d6e36cc0f4ab6244362de32bed783b2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm11.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 11", LaLiga Smartbank 11
+http://localhost:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm12.png" group-title="La Liga" tvg-id="LaLiga TV Hypermotion 12", LaLiga Smartbank 12
+http://localhost:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 HD",  EuroSport 1 1080
 http://localhost:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -235,16 +247,17 @@ http://localhost:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
 http://localhost:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf HD",  M. Golf 1080
-http://localhost:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+http://localhost:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf 2 HD",  M. Golf2 1080
-http://localhost:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+http://localhost:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="Varios" tvg-id="Teledeporte",  Teledeporte 1080
-https://ztnr.rtve.es/ztnr/1712295.m3u8
+http://localhost:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="Catalunya" tvg-id="Esport3 CAT", [CAT] Esport3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Radio_3_RNE_Spain.svg/275px-Radio_3_RNE_Spain.svg.png" group-title="Radio" tvg-id="", Radio3 Web Streaming
 https://ztnr.rtve.es/ztnr/2795617.m3u8
+
